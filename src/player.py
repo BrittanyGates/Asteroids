@@ -1,6 +1,4 @@
 import pygame
-from constants import  *
-from circleshape import *
 from shot import *
 
 
